@@ -31,3 +31,6 @@ npm run start
     }
 ]
 ```
+
+## Front-End
+https://github.com/SidnaZayn/Basic-Vue-Auth-JWT
